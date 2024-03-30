@@ -1,8 +1,8 @@
-package hello
+package world
 
 import "fmt"
 
-// SayHello 函数输出 "Hello, World!"
+// SayWorld 函数输出 "Hello, World!"
 func SayWorld() {
 	fmt.Println("World!")
 }
